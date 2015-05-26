@@ -1,0 +1,5 @@
+[Unit]
+Description=XenCommons Init Script
+
+[Service]
+ExecStart=/home/dan/bin/xencommons.sh
